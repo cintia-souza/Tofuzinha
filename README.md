@@ -1,8 +1,8 @@
 ### Oie, eu sou Cíntia uma nova recruta e que ama tecnologia (●'◡'●) 
 
-- 🔭 Front-end em andamento
-- 🌱 Estudando JavaScript
-- ⚡ Fun fact: Games e codes
+- 🔭 Front-end in progress
+- 🌱 Estudy JavaScript
+- ⚡ I like: Games and codes
 
 <div align="center">
   <a href="https://github.com/tofuzinha">
