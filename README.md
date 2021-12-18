@@ -13,7 +13,7 @@
   <img align="center" alt="tofu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="tofu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="tofu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="tofu-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/49dd07ef613a67b7fbca0db844df055e.gif">
+  <img align="right" alt="tofu-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/761393596388868136/921696306232164372/eu.gif">
 </div>
   
   ##
