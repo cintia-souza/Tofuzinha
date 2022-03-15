@@ -1,7 +1,7 @@
 ### Oie, eu sou Cíntia uma nova recruta e que ama tecnologia (●'◡'●) 
 
 - 🔭 Front-end in progress
-- 🌱 Studying JavaScript
+- 🌱 Studying JavaScript | React
 - ⚡ I like: Games and codes
 
 <div align="center">
