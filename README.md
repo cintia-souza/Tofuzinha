@@ -11,7 +11,7 @@
   </div>
   <div style="display: inline_block"><br>
 
-  <img align="right" alt="tofu-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/761393596388868136/921696306232164372/eu.gif%22%3E/>
+  <img align="right" alt="tofu-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/761393596388868136/921696306232164372/eu.gif%22%3E"/>
 </div>
   
 <div> 
