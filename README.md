@@ -6,11 +6,15 @@
 
  
   ##
+  <div align="center">
+   <a href="https://github.com/tofuzinha%22%3E/>
+ 
+  </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="tofu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg%22%3E
-  <img align="center" alt="tofu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg%22%3E
-  <img align="center" alt="tofu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg%22%3E
-  <img align="right" alt="tofu-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/761393596388868136/921696306232164372/eu.gif%22%3E
+  <img align="center" alt="tofu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg%22%3E/>
+  <img align="center" alt="tofu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg%22%3E/>
+  <img align="center" alt="tofu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg%22%3E/>
+  <img align="right" alt="tofu-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/761393596388868136/921696306232164372/eu.gif%22%3E/>
 </div>
   
 <div> 
